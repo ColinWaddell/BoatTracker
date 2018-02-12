@@ -25,7 +25,7 @@ Everything should be good to run:
 
 Now if you can visit the dashboard at http://localhost:8000/
 
-And if you want to update with a new reading the url is http://127.0.0.1:8000/log/update/<lat>/<lng>/<battery_v>/<pumping>
+And if you want to update with a new reading the url is http://127.0.0.1:8000/log/update/[lat]/[lng]/[battery_v]/[pumping]
 
 For example: http://127.0.0.1:8000/log/update/10.0/10.0/5.0/3.0
 
